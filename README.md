@@ -1,4 +1,13 @@
 
+##  运行Automldl Server:
+
+```
+python agentServer.py
+```
+
+### 介绍：
+#### 本超参搜索服务器可以用于多主机分布式训练，通过server的方式进行超参通信和反馈
+
 ## 本工具箱提供多种通用 优化算法 工具：
 - 1. [Bayesian Optimization 贝叶斯优化器](#BO)
 - 2. [ PPO RL Optimization 近端邻近强化学习优化器](#PPO)
